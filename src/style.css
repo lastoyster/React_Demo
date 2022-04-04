@@ -1,0 +1,24 @@
+.morning {
+  background-color: #000;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  color: yellow;
+  /* color: lightyellow; */
+}
+
+.afternoon {
+  background-color: whitesmoke;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  color: green;
+}
+
+.evening {
+  background-color: #000;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  color: blue;
+}
